@@ -1,0 +1,10 @@
+ffprobe.exe
+ffmpeg.exe
+options_real.json
+.vscode/launch.json
+.vscode/settings.json
+Sample_and_Tracklist_creator.py
+TestFiles/
+TestFiles/*
+*.mp3
+sandbox.py

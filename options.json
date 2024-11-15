@@ -1,0 +1,7 @@
+{
+    "cds_path": "path\\to\\mp3-album-files",
+    "sample_duration": 30,
+    "fade_out_duration": 3,
+    "upload_url": "https://website.com/uploads/",
+    "plugin_shortcode": "[your-favorite-audio-player-plugin fileurl='%s']"
+}
